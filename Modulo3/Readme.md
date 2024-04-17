@@ -17,6 +17,8 @@
 "Cannot add or update a child row: a foreign key constraint fails (azure_company.works_on, CONSTRAINT fk_employee_works_on FOREIGN KEY (Essn) REFERENCES employee (Ssn))"]
  ```
     Consultando as issues achei uma [solução](https://github.com/julianazanelatto/power_bi_analyst/issues/4)
+    [GitHub](https://github.com)
+    
 **3. Integrar Power BI com MySQL no Azure:**
 
     As configurações foram ajustadas utilizando o arquivo do Azure denominado "desafio-projeto-dio-rafa_azure_company.pbids"
